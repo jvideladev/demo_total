@@ -3,8 +3,8 @@ import './globals.css'
 import ThemeSync from '@/components/ThemeSync'
 
 export const metadata: Metadata = {
-  title: 'ServiceNow — Gestión de Tickets',
-  description: 'Demo Next.js — Dashboard NOC Moderno',
+  title: 'Demo de tableros',
+  description: 'Dashboard de prueba',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
